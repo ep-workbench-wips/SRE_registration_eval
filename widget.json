@@ -1,0 +1,20 @@
+{
+    "num_of_systems": 3,
+    "num_of_simulations": 1,
+    "static_widgets": [
+        {
+            "name": "fibrosis_transfer_eval",
+            "widget_type": "QCheckBox",
+            "properties": {
+                "checked": false
+            }
+        },
+        {
+            "name": "fibrosis_stats_path",
+            "widget_type": "QLineEdit",
+            "properties": {
+                "text": "path/to/fibrosis/stats.csv"
+            }
+        }
+    ]
+}
